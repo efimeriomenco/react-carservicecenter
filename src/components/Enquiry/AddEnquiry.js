@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom";
 import Form from "react-validation/build/form";
 import Input from "react-validation/build/input";
 import Textarea from "react-validation/build/textarea";
-import "./css/styles.css";
+
 import { Animated } from "react-animated-css";
 
 const postData = async (data) => {
